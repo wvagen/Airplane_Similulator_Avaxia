@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MyAssets/MyScenes/My_Main_Scene.unity
     guid: a806f13a916d54d4486688323d94b4e7
+  - enabled: 1
+    path: Assets/MyAssets/MyScenes/LatLongScene.unity
+    guid: 27ae267a273726343a105f371ece3822
   m_configObjects: {}
